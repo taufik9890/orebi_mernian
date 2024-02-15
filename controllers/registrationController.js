@@ -1,5 +1,6 @@
 let registrationController = (req, res)=>{
     // res.send('this is router from registrationControllers')
+    // res.send('this is router from registrationControllers')
     let data = [
         {
           "id": 1,
