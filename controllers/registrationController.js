@@ -236,6 +236,6 @@ let registrationController = (req, res)=>{
 
       res.send(data)
 }
-// middleware ki? ami kono ekta route e hit korbo oitate kono permission dibe ki dibe na eta hocche middle ware er kaaj 
-
 module.exports = registrationController
+// 4. middleware ki? ami kono ekta route e hit korbo oitate kono permission dibe ki dibe na eta hocche middle ware er kaaj 
+// amar shob data ami shobaike access korte dite chai na er jonno ami middleware bebohar korbo 
