@@ -9,3 +9,12 @@ const secureApi =(req, res, next)=>{
 }
 module.exports = secureApi
 // ekhane next() er kaaj hocche permission pawar pore jaite deya ke bole 
+
+
+
+
+// mernianeccomerce
+// mongodb+srv://mernian:Z4LL7psaFM27NGh6@cluster0.kmznmbg.mongodb.net/mernianeccomerce?retryWrites=true&w=majority
+
+
+// Z4LL7psaFM27NGh6
