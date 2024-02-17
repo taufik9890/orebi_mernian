@@ -1,6 +1,6 @@
 const secureApi =(req, res, next)=>{
-    console.log('hoise', req.Headers);
-    if(req.Headers.authorization == "3sw20aYo'?Nq"){
+    console.log('hoise', req.headers);
+    if(req.headers.authorization == "3sw20aYo'?Nq"){
         next()
     }
     else{
